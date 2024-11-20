@@ -9,4 +9,4 @@ Html ve Css kullanarak yaptığım proje
 
 <h1> Ekran Görüntüsü </h1>
 
-![](udemig academy.gif)
+![](udemig-academy.gif)
